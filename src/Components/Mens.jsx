@@ -9,7 +9,7 @@ export default function Mens() {
     return <ProductCard key={product.id}  product={product} />;
  })
     
-// console.log(MensProduct)
+
  return (
     <div>
       <h1 className="headline">Mens</h1>

@@ -11,7 +11,9 @@ export default function Womens(){
     return(
         <div>
             <h1 className="headline">Womens</h1>
-            {map}
+            <div className="products">
+                {map}
+            </div>
         </div>
     )
 }

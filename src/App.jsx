@@ -6,6 +6,7 @@ import Womens from "./Components/Womens"
 import Mens from "./Components/Mens"
 import Cart from './Components/Cart'
 import './App.css'
+import Accessories from './Components/Accessories'
 
 function App() {
  
@@ -19,6 +20,7 @@ function App() {
       <Route path="/mens" element={<Mens/>} />
       <Route path="/womens" element={<Womens/>} />
       <Route path="/cart" element={<Cart />} />
+      <Route path="/accessories" element={<Accessories/>}/>
     </Routes>
 
     </>

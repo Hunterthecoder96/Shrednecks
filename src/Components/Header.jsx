@@ -8,14 +8,15 @@ export default function Header(){
 
     return(
         <div className="Header-container">
-            <Link className="link" to="/">
-                <p>Home</p>
+            <Link className="link" to="/accessories">
+                <p>Accessories</p>
             </Link>
             
             <Link className="link"to="/mens">
             <p>Mens</p>
             </Link>
-            <img className="logo" src={Logo} alt="Logo"/>
+            <Link to="/"><img className="logo" src={Logo} alt="Logo"/></Link>
+            
             <Link className="link"to="/womens"> 
             <p>Womens</p>
             </Link>

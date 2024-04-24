@@ -1,3 +1,64 @@
 .intro{
     padding-top:150px;
+   
+}
+.toofer{
+    padding-top:100px;
+    height:650px;
+    width:100%;
+    object-fit: cover;
+    border-bottom: 3px solid black;
+}
+.hero{
+align-items:  center;
+}
+.blogcard-container{
+    display: flex;
+    justify-content: space-around;
+}
+.interchange-posts{
+    width:200px;
+    height:200px;
+     max-height: 20%;
+     object-fit: cover;
+}
+.blog-title{
+    display:flex;
+    justify-content: center;
+    font-family: fantasy;
+}
+
+
+.interchange-posts:hover{
+    transform: scale(1.1); 
+    box-shadow: 2px 2px 2px black;
+   
+}
+.midsection{
+    display: flex;
+    padding-top: 50px;
+    
+}
+
+.about{
+    padding-top: 20px;
+    width:50%;
+    padding-left: 50px;
+}
+.about>h1{
+    font-family: fantasy;
+}
+.about>p{
+    font-size: 23px;
+}
+.vid-section{
+   padding-right: 0;
+}
+.vid{
+    height: 300px;
+    width:auto;
+    object-fit: cover;
+    padding-top: 35px;
+    padding-left: 190px;
+    
 }
