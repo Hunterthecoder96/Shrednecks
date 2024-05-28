@@ -38,8 +38,6 @@ export default function Cobia(){
                         <li>For the miso butter, make sure both the miso and the butter are at room temperature. Whisk together until evenly mixed. I recommend making a lot of this stuff, it’ll keep in the fridge indefinitely, and you’ll find all kinds of uses for it.</li>
                         <li>Very lightly season the fish with salt and pepper. (Use half the amount of salt you would normally use. The miso has plenty of salt in it, so you don't want to overdo it.) Sear the fish on one side over medium-high heat, then flip the fillet over and move the fish to the 12 o’clock position in the pan. Add the miso butter and some straight butter. Tilt the pan so that the melted butters pool up at the 6 o'clock position, and use a spoon to constantly bathe the fillet in the hot butter. Continue this until the internal temperature of the fish reaches about 120°F. Remove from the pan and allow the fish to rest for a few minutes before cutting into it.</li>
                         <li>For the succotash, render the ham for a minute or two in a large pan over medium heat, then add onion and garlic, cooking for another minute. Then add the edamame, tomatoes, corn, and miso butter. Stir to evenly coat everything in miso butter. Add the basil right before you kill the heat.</li>
-                       
-                
                     </ol>
                 </section>
             </div>
