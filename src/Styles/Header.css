@@ -1,0 +1,46 @@
+.Header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  padding: 10px 20px;
+  z-index: 1;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 80px;
+  transform: rotate(10deg);
+  padding: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+  margin: 0 15px;
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.link p {
+  margin: 0;
+  font-size: 18px;
+}
+
+.link:hover p {
+  text-decoration: underline;
+}
+
+.cart-icon {
+  margin-right: 5px;
+  font-size: 24px;
+}
+
+.link:hover .cart-icon {
+  color: grey;
+}
