@@ -6,7 +6,7 @@ export default function FishDip(){
         <div className="recipe-container">
             <header className="recipe-header">
                 <h1>Smoked Fish Dip</h1>
-                <img src="https://via.placeholder.com/800x400" alt="Chocolate Cake" className="recipe-image" />
+                <img src="https://juliaeats.com/wp-content/uploads/2019/05/smoked-mahi-dip-with-pineapple-1.jpg?w=1024" alt="Chocolate Cake" className="recipe-image" />
             </header>
             <div className="recipe-content">
                 <section className="recipe-info">

@@ -87,15 +87,26 @@ body {
 }
 
 .foody-container {
-    padding: 20px;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: grey;
+  
 }
 
 .foody-container > h1 {
     font-family: fantasy;
+    text-align: center;
+}
+.food-text{
+    text-align:  center;
+    font-size: 23px;
+    padding-bottom: 15px;
 }
 
-.foody-container > p {
-    font-size: 23px;
+.featured-food{
+    display: flex;
+    gap:10px;
+    justify-content: center;
 }
 
 @media (min-width: 768px) {

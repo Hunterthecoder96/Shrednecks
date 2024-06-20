@@ -21,6 +21,7 @@ import Cobia from './Components/FishRecipes/Cobia'
 import SteakBruschetta from './Components/MeatRecipes/SteakBruschetta'
 import Chili from "./Components/MeatRecipes/Chili"
 import Footer from './Components/Footer'
+import DuckPineappleBurger from './Components/MeatRecipes/DuckPineappleBurger'
 
 function App() {
  
@@ -48,6 +49,7 @@ function App() {
       <Route path="/Cobia" element={<Cobia/>}/>
       <Route path="/SteakBruschetta" element={<SteakBruschetta/>}/>
       <Route path="/Chili" element={<Chili/>}/>
+      <Route path="DuckPineappleBurger" element={<DuckPineappleBurger/>}/>
     </Routes>
     <Footer />
 

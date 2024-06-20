@@ -42,6 +42,15 @@ export default function Meat(){
 
             </Link>
             </div>
+
+            <div className="card">
+            <Link classname="recipe"to="/DuckPineappleBurger">  
+            <img src="https://images.ctfassets.net/pujs1b1v0165/6iOvCSqVxx1ySxA5BCIhwK/5df931e96730008fc8fa3af1817a1489/DuckPineappleBurger_52.jpg?w=1200&fit=fill&fm=webp" alt="DuckPineappleBurger" className="card-image" />
+                <h2 classname="recipe">Teriyaki Duck and Pineapple Burgers</h2>
+                <p>American Classic with a wild game touch</p>
+
+            </Link>
+            </div>
             </div>
         </div>
     )
